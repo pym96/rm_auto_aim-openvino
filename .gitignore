@@ -1,0 +1,13 @@
+build/
+
+.vscode/
+
+test/build/
+
+Camera/
+
+.cache/
+
+cmake-build-debug/
+
+.idea/
